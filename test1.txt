@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 74BB-C691
+
+ Directory of C:\Users\Lenovo\Desktop\my project
+
+03/19/2022  10:35 PM    <DIR>          .
+03/19/2022  10:35 PM    <DIR>          ..
+03/19/2022  10:35 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  356,086,231,040 bytes free
